@@ -1,0 +1,2 @@
+# Aplicacion-de-tecnicas-no-supervisadas-en-el-analisis-pacientes-oncologicos
+Este proyecto estudia la aplicación de técnicas de machine learning no supervisado para identificar patrones en los pacientes, para explorar si existen subgrupos de pacientes con perfiles similares en supervivencia, mortalidad o reingreso. Para ello, se emplean métodos como k-means, clustering jerárquico, PCA, t-SNE y mapas autoorganizativos SOM. 
